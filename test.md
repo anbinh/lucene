@@ -1,4 +1,4 @@
-##SATA
+##STATS
 |album table | records |
 |-----|------|
 | csnalbums  |    8147|
@@ -13,6 +13,7 @@
 | total  |  **305964** |
 
 |song table | records |
+|-----|------|
 |csnsongs  |  427753|
 |ccsongs   |  441216|
 |nctsongs  | 1883377|
@@ -28,6 +29,7 @@
 |total| 8369815| 
 
 |video table | records |
+|-----|------|
 |kevideos   |   13019|
 |nctvideos  |  151560|
 |nsvideos   |   16407|
