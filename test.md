@@ -1,0 +1,34 @@
+##SATA
+|table | total|
+|-----|------|
+| csnalbums  |    8147|
+| ccalbums   |    5927|
+| nsalbums   |   75058|
+| gmalbums   |   15329|
+| nctalbums  |   40492|
+| nvalbums   |   33667|
+| nnalbums   |   16543|
+| zialbums   |   90617|
+| kealbums   |   20184|
+**total albums is 305964**
+csnsongs   -  427753
+ccsongs    -  441216
+nctsongs   - 1883377
+nssongs    - 1018311
+kesongs    -  154254
+songs      - 2744345
+nvsongs    -  343868
+mvsongs    -    7962
+gmsongs    -  170113
+zisongs    -  837138
+nnsongs    -  265603
+vgsongs    -   75875
+**total songs is 8369815**
+kevideos   -   13019
+nctvideos  -  151560
+nsvideos   -   16407
+zivideos   -   47536
+mvvideos   -     126
+nvvideos   -   12891
+videos     -  169616
+**total videos is 411155**
